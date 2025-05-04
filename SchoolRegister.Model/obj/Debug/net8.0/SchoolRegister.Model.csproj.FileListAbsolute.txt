@@ -1,0 +1,13 @@
+C:\Users\USER\Documents\Aplikacje_WWW_S\Aplikacje_WWW_S\SchoolRegister.Model\bin\Debug\net8.0\SchoolRegister.Model.deps.json
+C:\Users\USER\Documents\Aplikacje_WWW_S\Aplikacje_WWW_S\SchoolRegister.Model\bin\Debug\net8.0\SchoolRegister.Model.dll
+C:\Users\USER\Documents\Aplikacje_WWW_S\Aplikacje_WWW_S\SchoolRegister.Model\bin\Debug\net8.0\SchoolRegister.Model.pdb
+C:\Users\USER\Documents\Aplikacje_WWW_S\Aplikacje_WWW_S\SchoolRegister.Model\obj\Debug\net8.0\SchoolRegister.Model.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\Aplikacje_WWW_S\Aplikacje_WWW_S\SchoolRegister.Model\obj\Debug\net8.0\SchoolRegister.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\Aplikacje_WWW_S\Aplikacje_WWW_S\SchoolRegister.Model\obj\Debug\net8.0\SchoolRegister.Model.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\Aplikacje_WWW_S\Aplikacje_WWW_S\SchoolRegister.Model\obj\Debug\net8.0\SchoolRegister.Model.AssemblyInfo.cs
+C:\Users\USER\Documents\Aplikacje_WWW_S\Aplikacje_WWW_S\SchoolRegister.Model\obj\Debug\net8.0\SchoolRegister.Model.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Aplikacje_WWW_S\Aplikacje_WWW_S\SchoolRegister.Model\obj\Debug\net8.0\SchoolRegister.Model.sourcelink.json
+C:\Users\USER\Documents\Aplikacje_WWW_S\Aplikacje_WWW_S\SchoolRegister.Model\obj\Debug\net8.0\SchoolRegister.Model.dll
+C:\Users\USER\Documents\Aplikacje_WWW_S\Aplikacje_WWW_S\SchoolRegister.Model\obj\Debug\net8.0\refint\SchoolRegister.Model.dll
+C:\Users\USER\Documents\Aplikacje_WWW_S\Aplikacje_WWW_S\SchoolRegister.Model\obj\Debug\net8.0\SchoolRegister.Model.pdb
+C:\Users\USER\Documents\Aplikacje_WWW_S\Aplikacje_WWW_S\SchoolRegister.Model\obj\Debug\net8.0\ref\SchoolRegister.Model.dll
