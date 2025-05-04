@@ -1,0 +1,16 @@
+C:\Users\USER\Documents\Aplikacje_WWW_S\Aplikacje_WWW_S\SchoolRegister.ViewModels\bin\Debug\net8.0\SchoolRegister.ViewModels.deps.json
+C:\Users\USER\Documents\Aplikacje_WWW_S\Aplikacje_WWW_S\SchoolRegister.ViewModels\bin\Debug\net8.0\SchoolRegister.ViewModels.dll
+C:\Users\USER\Documents\Aplikacje_WWW_S\Aplikacje_WWW_S\SchoolRegister.ViewModels\bin\Debug\net8.0\SchoolRegister.ViewModels.pdb
+C:\Users\USER\Documents\Aplikacje_WWW_S\Aplikacje_WWW_S\SchoolRegister.ViewModels\bin\Debug\net8.0\SchoolRegister.Model.dll
+C:\Users\USER\Documents\Aplikacje_WWW_S\Aplikacje_WWW_S\SchoolRegister.ViewModels\bin\Debug\net8.0\SchoolRegister.Model.pdb
+C:\Users\USER\Documents\Aplikacje_WWW_S\Aplikacje_WWW_S\SchoolRegister.ViewModels\obj\Debug\net8.0\SchoolRegister.ViewModels.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\Aplikacje_WWW_S\Aplikacje_WWW_S\SchoolRegister.ViewModels\obj\Debug\net8.0\SchoolRegister.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\Aplikacje_WWW_S\Aplikacje_WWW_S\SchoolRegister.ViewModels\obj\Debug\net8.0\SchoolRegister.ViewModels.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\Aplikacje_WWW_S\Aplikacje_WWW_S\SchoolRegister.ViewModels\obj\Debug\net8.0\SchoolRegister.ViewModels.AssemblyInfo.cs
+C:\Users\USER\Documents\Aplikacje_WWW_S\Aplikacje_WWW_S\SchoolRegister.ViewModels\obj\Debug\net8.0\SchoolRegister.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Aplikacje_WWW_S\Aplikacje_WWW_S\SchoolRegister.ViewModels\obj\Debug\net8.0\SchoolRegister.ViewModels.sourcelink.json
+C:\Users\USER\Documents\Aplikacje_WWW_S\Aplikacje_WWW_S\SchoolRegister.ViewModels\obj\Debug\net8.0\SchoolRe.74268CC5.Up2Date
+C:\Users\USER\Documents\Aplikacje_WWW_S\Aplikacje_WWW_S\SchoolRegister.ViewModels\obj\Debug\net8.0\SchoolRegister.ViewModels.dll
+C:\Users\USER\Documents\Aplikacje_WWW_S\Aplikacje_WWW_S\SchoolRegister.ViewModels\obj\Debug\net8.0\refint\SchoolRegister.ViewModels.dll
+C:\Users\USER\Documents\Aplikacje_WWW_S\Aplikacje_WWW_S\SchoolRegister.ViewModels\obj\Debug\net8.0\SchoolRegister.ViewModels.pdb
+C:\Users\USER\Documents\Aplikacje_WWW_S\Aplikacje_WWW_S\SchoolRegister.ViewModels\obj\Debug\net8.0\ref\SchoolRegister.ViewModels.dll
