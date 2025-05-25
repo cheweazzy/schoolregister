@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HRMgtiuf4Og=",
+  "dgSpecHash": "A6ABCt/0DLA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\Documents\\Aplikacje_WWW_S\\Aplikacje_WWW_S\\SchoolRegister.Web\\SchoolRegister.Web.csproj",
+  "projectFilePath": "C:\\Users\\USER\\Documents\\GitHub\\schoolregister\\SchoolRegister.Web\\SchoolRegister.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

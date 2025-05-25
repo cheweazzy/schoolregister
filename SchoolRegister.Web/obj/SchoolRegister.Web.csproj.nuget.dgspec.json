@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\Documents\\Aplikacje_WWW_S\\Aplikacje_WWW_S\\SchoolRegister.Web\\SchoolRegister.Web.csproj": {}
+    "C:\\Users\\USER\\Documents\\GitHub\\schoolregister\\SchoolRegister.Web\\SchoolRegister.Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\Documents\\Aplikacje_WWW_S\\Aplikacje_WWW_S\\SchoolRegister.DAL\\SchoolRegister.DAL.csproj": {
+    "C:\\Users\\USER\\Documents\\GitHub\\schoolregister\\SchoolRegister.DAL\\SchoolRegister.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\Documents\\Aplikacje_WWW_S\\Aplikacje_WWW_S\\SchoolRegister.DAL\\SchoolRegister.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Documents\\GitHub\\schoolregister\\SchoolRegister.DAL\\SchoolRegister.DAL.csproj",
         "projectName": "SchoolRegister.DAL",
-        "projectPath": "C:\\Users\\USER\\Documents\\Aplikacje_WWW_S\\Aplikacje_WWW_S\\SchoolRegister.DAL\\SchoolRegister.DAL.csproj",
+        "projectPath": "C:\\Users\\USER\\Documents\\GitHub\\schoolregister\\SchoolRegister.DAL\\SchoolRegister.DAL.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\Documents\\Aplikacje_WWW_S\\Aplikacje_WWW_S\\SchoolRegister.DAL\\obj\\",
+        "outputPath": "C:\\Users\\USER\\Documents\\GitHub\\schoolregister\\SchoolRegister.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,8 +26,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\USER\\Documents\\Aplikacje_WWW_S\\Aplikacje_WWW_S\\SchoolRegister.Model\\SchoolRegister.Model.csproj": {
-                "projectPath": "C:\\Users\\USER\\Documents\\Aplikacje_WWW_S\\Aplikacje_WWW_S\\SchoolRegister.Model\\SchoolRegister.Model.csproj"
+              "C:\\Users\\USER\\Documents\\GitHub\\schoolregister\\SchoolRegister.Model\\SchoolRegister.Model.csproj": {
+                "projectPath": "C:\\Users\\USER\\Documents\\GitHub\\schoolregister\\SchoolRegister.Model\\SchoolRegister.Model.csproj"
               }
             }
           }
@@ -90,14 +90,14 @@
         }
       }
     },
-    "C:\\Users\\USER\\Documents\\Aplikacje_WWW_S\\Aplikacje_WWW_S\\SchoolRegister.Model\\SchoolRegister.Model.csproj": {
+    "C:\\Users\\USER\\Documents\\GitHub\\schoolregister\\SchoolRegister.Model\\SchoolRegister.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\Documents\\Aplikacje_WWW_S\\Aplikacje_WWW_S\\SchoolRegister.Model\\SchoolRegister.Model.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Documents\\GitHub\\schoolregister\\SchoolRegister.Model\\SchoolRegister.Model.csproj",
         "projectName": "SchoolRegister.Model",
-        "projectPath": "C:\\Users\\USER\\Documents\\Aplikacje_WWW_S\\Aplikacje_WWW_S\\SchoolRegister.Model\\SchoolRegister.Model.csproj",
+        "projectPath": "C:\\Users\\USER\\Documents\\GitHub\\schoolregister\\SchoolRegister.Model\\SchoolRegister.Model.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\Documents\\Aplikacje_WWW_S\\Aplikacje_WWW_S\\SchoolRegister.Model\\obj\\",
+        "outputPath": "C:\\Users\\USER\\Documents\\GitHub\\schoolregister\\SchoolRegister.Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -154,14 +154,14 @@
         }
       }
     },
-    "C:\\Users\\USER\\Documents\\Aplikacje_WWW_S\\Aplikacje_WWW_S\\SchoolRegister.Services\\SchoolRegister.Services.csproj": {
+    "C:\\Users\\USER\\Documents\\GitHub\\schoolregister\\SchoolRegister.Services\\SchoolRegister.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\Documents\\Aplikacje_WWW_S\\Aplikacje_WWW_S\\SchoolRegister.Services\\SchoolRegister.Services.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Documents\\GitHub\\schoolregister\\SchoolRegister.Services\\SchoolRegister.Services.csproj",
         "projectName": "SchoolRegister.Services",
-        "projectPath": "C:\\Users\\USER\\Documents\\Aplikacje_WWW_S\\Aplikacje_WWW_S\\SchoolRegister.Services\\SchoolRegister.Services.csproj",
+        "projectPath": "C:\\Users\\USER\\Documents\\GitHub\\schoolregister\\SchoolRegister.Services\\SchoolRegister.Services.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\Documents\\Aplikacje_WWW_S\\Aplikacje_WWW_S\\SchoolRegister.Services\\obj\\",
+        "outputPath": "C:\\Users\\USER\\Documents\\GitHub\\schoolregister\\SchoolRegister.Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -176,14 +176,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\USER\\Documents\\Aplikacje_WWW_S\\Aplikacje_WWW_S\\SchoolRegister.DAL\\SchoolRegister.DAL.csproj": {
-                "projectPath": "C:\\Users\\USER\\Documents\\Aplikacje_WWW_S\\Aplikacje_WWW_S\\SchoolRegister.DAL\\SchoolRegister.DAL.csproj"
+              "C:\\Users\\USER\\Documents\\GitHub\\schoolregister\\SchoolRegister.DAL\\SchoolRegister.DAL.csproj": {
+                "projectPath": "C:\\Users\\USER\\Documents\\GitHub\\schoolregister\\SchoolRegister.DAL\\SchoolRegister.DAL.csproj"
               },
-              "C:\\Users\\USER\\Documents\\Aplikacje_WWW_S\\Aplikacje_WWW_S\\SchoolRegister.Model\\SchoolRegister.Model.csproj": {
-                "projectPath": "C:\\Users\\USER\\Documents\\Aplikacje_WWW_S\\Aplikacje_WWW_S\\SchoolRegister.Model\\SchoolRegister.Model.csproj"
+              "C:\\Users\\USER\\Documents\\GitHub\\schoolregister\\SchoolRegister.Model\\SchoolRegister.Model.csproj": {
+                "projectPath": "C:\\Users\\USER\\Documents\\GitHub\\schoolregister\\SchoolRegister.Model\\SchoolRegister.Model.csproj"
               },
-              "C:\\Users\\USER\\Documents\\Aplikacje_WWW_S\\Aplikacje_WWW_S\\SchoolRegister.ViewModels\\SchoolRegister.ViewModels.csproj": {
-                "projectPath": "C:\\Users\\USER\\Documents\\Aplikacje_WWW_S\\Aplikacje_WWW_S\\SchoolRegister.ViewModels\\SchoolRegister.ViewModels.csproj"
+              "C:\\Users\\USER\\Documents\\GitHub\\schoolregister\\SchoolRegister.ViewModels\\SchoolRegister.ViewModels.csproj": {
+                "projectPath": "C:\\Users\\USER\\Documents\\GitHub\\schoolregister\\SchoolRegister.ViewModels\\SchoolRegister.ViewModels.csproj"
               }
             }
           }
@@ -222,14 +222,14 @@
         }
       }
     },
-    "C:\\Users\\USER\\Documents\\Aplikacje_WWW_S\\Aplikacje_WWW_S\\SchoolRegister.ViewModels\\SchoolRegister.ViewModels.csproj": {
+    "C:\\Users\\USER\\Documents\\GitHub\\schoolregister\\SchoolRegister.ViewModels\\SchoolRegister.ViewModels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\Documents\\Aplikacje_WWW_S\\Aplikacje_WWW_S\\SchoolRegister.ViewModels\\SchoolRegister.ViewModels.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Documents\\GitHub\\schoolregister\\SchoolRegister.ViewModels\\SchoolRegister.ViewModels.csproj",
         "projectName": "SchoolRegister.ViewModels",
-        "projectPath": "C:\\Users\\USER\\Documents\\Aplikacje_WWW_S\\Aplikacje_WWW_S\\SchoolRegister.ViewModels\\SchoolRegister.ViewModels.csproj",
+        "projectPath": "C:\\Users\\USER\\Documents\\GitHub\\schoolregister\\SchoolRegister.ViewModels\\SchoolRegister.ViewModels.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\Documents\\Aplikacje_WWW_S\\Aplikacje_WWW_S\\SchoolRegister.ViewModels\\obj\\",
+        "outputPath": "C:\\Users\\USER\\Documents\\GitHub\\schoolregister\\SchoolRegister.ViewModels\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -244,8 +244,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\USER\\Documents\\Aplikacje_WWW_S\\Aplikacje_WWW_S\\SchoolRegister.Model\\SchoolRegister.Model.csproj": {
-                "projectPath": "C:\\Users\\USER\\Documents\\Aplikacje_WWW_S\\Aplikacje_WWW_S\\SchoolRegister.Model\\SchoolRegister.Model.csproj"
+              "C:\\Users\\USER\\Documents\\GitHub\\schoolregister\\SchoolRegister.Model\\SchoolRegister.Model.csproj": {
+                "projectPath": "C:\\Users\\USER\\Documents\\GitHub\\schoolregister\\SchoolRegister.Model\\SchoolRegister.Model.csproj"
               }
             }
           }
@@ -284,14 +284,14 @@
         }
       }
     },
-    "C:\\Users\\USER\\Documents\\Aplikacje_WWW_S\\Aplikacje_WWW_S\\SchoolRegister.Web\\SchoolRegister.Web.csproj": {
+    "C:\\Users\\USER\\Documents\\GitHub\\schoolregister\\SchoolRegister.Web\\SchoolRegister.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\Documents\\Aplikacje_WWW_S\\Aplikacje_WWW_S\\SchoolRegister.Web\\SchoolRegister.Web.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Documents\\GitHub\\schoolregister\\SchoolRegister.Web\\SchoolRegister.Web.csproj",
         "projectName": "SchoolRegister.Web",
-        "projectPath": "C:\\Users\\USER\\Documents\\Aplikacje_WWW_S\\Aplikacje_WWW_S\\SchoolRegister.Web\\SchoolRegister.Web.csproj",
+        "projectPath": "C:\\Users\\USER\\Documents\\GitHub\\schoolregister\\SchoolRegister.Web\\SchoolRegister.Web.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\Documents\\Aplikacje_WWW_S\\Aplikacje_WWW_S\\SchoolRegister.Web\\obj\\",
+        "outputPath": "C:\\Users\\USER\\Documents\\GitHub\\schoolregister\\SchoolRegister.Web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -306,17 +306,17 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\USER\\Documents\\Aplikacje_WWW_S\\Aplikacje_WWW_S\\SchoolRegister.DAL\\SchoolRegister.DAL.csproj": {
-                "projectPath": "C:\\Users\\USER\\Documents\\Aplikacje_WWW_S\\Aplikacje_WWW_S\\SchoolRegister.DAL\\SchoolRegister.DAL.csproj"
+              "C:\\Users\\USER\\Documents\\GitHub\\schoolregister\\SchoolRegister.DAL\\SchoolRegister.DAL.csproj": {
+                "projectPath": "C:\\Users\\USER\\Documents\\GitHub\\schoolregister\\SchoolRegister.DAL\\SchoolRegister.DAL.csproj"
               },
-              "C:\\Users\\USER\\Documents\\Aplikacje_WWW_S\\Aplikacje_WWW_S\\SchoolRegister.Model\\SchoolRegister.Model.csproj": {
-                "projectPath": "C:\\Users\\USER\\Documents\\Aplikacje_WWW_S\\Aplikacje_WWW_S\\SchoolRegister.Model\\SchoolRegister.Model.csproj"
+              "C:\\Users\\USER\\Documents\\GitHub\\schoolregister\\SchoolRegister.Model\\SchoolRegister.Model.csproj": {
+                "projectPath": "C:\\Users\\USER\\Documents\\GitHub\\schoolregister\\SchoolRegister.Model\\SchoolRegister.Model.csproj"
               },
-              "C:\\Users\\USER\\Documents\\Aplikacje_WWW_S\\Aplikacje_WWW_S\\SchoolRegister.Services\\SchoolRegister.Services.csproj": {
-                "projectPath": "C:\\Users\\USER\\Documents\\Aplikacje_WWW_S\\Aplikacje_WWW_S\\SchoolRegister.Services\\SchoolRegister.Services.csproj"
+              "C:\\Users\\USER\\Documents\\GitHub\\schoolregister\\SchoolRegister.Services\\SchoolRegister.Services.csproj": {
+                "projectPath": "C:\\Users\\USER\\Documents\\GitHub\\schoolregister\\SchoolRegister.Services\\SchoolRegister.Services.csproj"
               },
-              "C:\\Users\\USER\\Documents\\Aplikacje_WWW_S\\Aplikacje_WWW_S\\SchoolRegister.ViewModels\\SchoolRegister.ViewModels.csproj": {
-                "projectPath": "C:\\Users\\USER\\Documents\\Aplikacje_WWW_S\\Aplikacje_WWW_S\\SchoolRegister.ViewModels\\SchoolRegister.ViewModels.csproj"
+              "C:\\Users\\USER\\Documents\\GitHub\\schoolregister\\SchoolRegister.ViewModels\\SchoolRegister.ViewModels.csproj": {
+                "projectPath": "C:\\Users\\USER\\Documents\\GitHub\\schoolregister\\SchoolRegister.ViewModels\\SchoolRegister.ViewModels.csproj"
               }
             }
           }
